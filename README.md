@@ -263,12 +263,11 @@ http://localhost:5000
 ---
 
 ## Author
-**Wardatul A'ani**
-NIM: 230170100
-Informatics Engineering — Universitas Malikussaleh
-Lhokseumawe, Aceh, Indonesia
+**Nur Maya**
+NIM: 2307066004
+Matematika — Universitas Mulawarman
 
 Program: Magang Mandiri Batch 4 (MSIB) — PT Vinix Seven Aurum
 Divisi: Python Machine Learning
-Periode: 9 Februari 2026 – 26 Juni 2026
-GitHub Repo: https://github.com/wardaini/Diabetes-Risk-Prediction
+Periode: 23 Februari 2026 – 23 Juni 2026
+GitHub Repo: https://github.com/nurmay2123-sudo/deteksi-deabetes
